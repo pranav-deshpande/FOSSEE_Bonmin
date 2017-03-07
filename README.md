@@ -1,6 +1,6 @@
 # FOSSEE_Bonmin
 This is to connect the Bonmin library to Scilab and help solve Mixed Integer Quadratic Programming Problems.    
-It loads function named 'intqpipopt' into the Scilab environment.  
+It loads the function named 'intqpipopt' into the Scilab environment.  
 Code Authors: Harpreet Singh, Akshay Miterani and Pranav Deshpande   
 
 Organization: FOSSEE, IIT Bombay  
